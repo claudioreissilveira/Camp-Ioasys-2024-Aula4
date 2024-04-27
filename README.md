@@ -1,6 +1,7 @@
-# React + Vite
+# PROJETO REACT.JS CAMP-IOASYS-2024
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto na tecnologia React.js 
+com intuito de criar e desenvolver uma primeira pagina web em react.
 
 Currently, two official plugins are available:
 
